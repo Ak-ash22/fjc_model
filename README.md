@@ -1,3 +1,6 @@
 # fjc_model
 
 This repositary delves into the realm of polymeric physics through the lens of the Free-Jointed Chain (FJC) Model framework and showcases the importance of various statistical tools devised to study the polymer in detail. The results shown impeccably align with the approximations posited by the FJC model, thus proving it to be one of the robust models to gain insights into polymeric structures. The repo also emphasizes the numerical algorithm used for the simulation of the randomly generated polymeric chain and resultant structures visualized using the Visual Molecular Dynamics(VMD) software. The section also discusses the essential theory and statistical tools crucial for comprehending the FJC model. The repo presents the calculations and results obtained for various statistical quantities and establishes their conformity with theoretical expectations. Notably, our exploration extends to the application of the Metropolis Monte Carlo simulation to get a glimpse of the behavior of the polymeric chain subjected to a constant force in one dimension.
+
+The below google drive link consists of all the generated data files (.xyz files) used in for this project.
+[`Google Drive link`](https://drive.google.com/file/d/1fly1np3X3f32OsKyADe46P72BfBllfjm/view?usp=sharing)
